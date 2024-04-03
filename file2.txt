@@ -1,0 +1,2 @@
+hi file2 modified
+hi file2 branch modified
